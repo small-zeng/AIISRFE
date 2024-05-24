@@ -4,7 +4,8 @@
 
 ![teaser](./imgs/teaser.png)
 
-Project Page: [AIISFRE](https://small-zeng.github.io/AIISRFE/)  Paper Link: [AIISFRE](https://arxiv.org/abs/2404.10218)  
+Project Page: [https://small-zeng.github.io/AIISRFE/](https://small-zeng.github.io/AIISRFE/)  
+Paper Link: [https://arxiv.org/abs/2404.10218](https://arxiv.org/abs/2404.10218)  
 
 ## Unity Project in Windows
 
