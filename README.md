@@ -41,7 +41,7 @@ python manage.py runserver 0.0.0.0:7000
 
 3. Open another terminal and start planner service:
 
-Make sure that the Windows and Ubuntu machines are on the same local network.
+Make sure that the Windows and Ubuntu machines are on the same local network. The planner is modified from [Fuel](https://github.com/HKUST-Aerial-Robotics/FUEL/).
 
 ```bash 
 catkin_make
