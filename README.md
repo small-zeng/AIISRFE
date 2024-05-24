@@ -52,6 +52,7 @@ roslaunch exploration_manager exploration_multi_room.launch
 
 ## BibTeX
 
+```bash
 @article{zeng2024autonomous,
   title={Autonomous Implicit Indoor Scene Reconstruction with Frontier Exploration},
   author={Zeng, Jing and Li, Yanxu and Sun, Jiahao and Ye, Qi and Ran, Yunlong and Chen, Jiming},
