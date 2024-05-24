@@ -49,3 +49,19 @@ source devel/setup.sh
 roslaunch exploration_manager rviz.launch
 roslaunch exploration_manager exploration_multi_room.launch
 ```
+
+## BibTeX
+
+@article{zeng2024autonomous,
+  title={Autonomous Implicit Indoor Scene Reconstruction with Frontier Exploration},
+  author={Zeng, Jing and Li, Yanxu and Sun, Jiahao and Ye, Qi and Ran, Yunlong and Chen, Jiming},
+  journal={arXiv preprint arXiv:2404.10218},
+  year={2024}
+}
+```
+
+## Acknowledgement
+
+Use this code under the MIT License. No warranties are provided. Keep the laws of your locality in mind!
+
+Please refer to [torch-ngp#acknowledgement](https://github.com/ashawkey/torch-ngp#acknowledgement) for the acknowledgment of the original repo.
