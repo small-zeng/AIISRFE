@@ -2,7 +2,7 @@
 
 **Accepted by ICRA 2024 (AIISFRE).**
 
-![teaser](./imgs/teaser_EVPP.jpg)
+![teaser](./imgs/teaser.png)
 
 Project Page: [AIISFRE](https://small-zeng.github.io/AIISRFE/)  Paper Link: [AIISFRE](https://arxiv.org/abs/2404.10218)  
 
