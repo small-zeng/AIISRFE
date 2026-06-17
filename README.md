@@ -1,6 +1,6 @@
 # Autonomous Implicit Indoor Scene Reconstruction with Frontier Exploration
 
-**Accepted by ICRA 2024 (AIISRFE).**
+**Accepted by ICRA 2024 (AIISRFE)**
 
 ![teaser](./imgs/teaser.png)
 
